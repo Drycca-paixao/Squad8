@@ -28,7 +28,7 @@
 
 Nome   | GitHub | Linkedin | Email
 --------- | ------ | -------- | -----------
-Adrizia Paixão | [Adrizia Paixão](https://github.com/) | [Linkedin](https://www.linkedin.com/in/adrizia-paixao?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB_xlRwBcQJZ9j2DrkguYWGQtz_KaV6hBv8&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BaHbqCvLxR5uC5gYWzBQ2DA%3D%3D) |
+Adrizia Paixão | [Adrizia Paixão](https://github.com/Drycca-paixao) | [Linkedin](https://www.linkedin.com/in/adrizia-paixao/) | dryccapaixao@hotmail.com |
 Drielison Lopes | [Drielison Lopes](https://github.com/DrielisonLopes) | [Linkedin](https://www.linkedin.com/in/drielison-lopes/) | drielisonl@gmail.com
 Iago Caldas | [Iago Caldas](https://github.com/Iagoakie/) | [Linkedin](https://www.linkedin.com/in/iago-caldas-57b11a206/) | iagocaldas58@gmail.com
 Iane Nunes | [Iane Nunes](https://github.com/ianenunes) | [Linkedin](https://www.linkedin.com/in/) | 
